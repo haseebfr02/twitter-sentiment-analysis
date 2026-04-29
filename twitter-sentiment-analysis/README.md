@@ -1,7 +1,7 @@
 # 💬 Twitter Sentiment Analysis
 
 > End-to-end NLP project analyzing sentiment across **2,000 tweets** covering
-> 5 major topics — AI Technology, Climate Change, Economy, Sports & Social Media.
+> 5 major topics  AI Technology, Climate Change, Economy, Sports & Social Media.
 
 ---
 
@@ -54,8 +54,8 @@ twitter-sentiment-analysis/
 | Finding | Detail |
 |---|---|
 | **Overall Sentiment** | 41.9% Positive, 32.9% Negative, 25.2% Neutral |
-| **Most Positive Topic** | AI Technology — highest avg polarity score |
-| **Most Negative Topic** | Social Media — highest negative sentiment |
+| **Most Positive Topic** | AI Technology  highest avg polarity score |
+| **Most Negative Topic** | Social Media  highest negative sentiment |
 | **Most Engaging** | Sports tweets drive highest engagement scores |
 | **Hashtag Impact** | Tweets with hashtags get 23% more engagement |
 | **Subjectivity** | Negative tweets tend to be more subjective |
@@ -64,8 +64,8 @@ twitter-sentiment-analysis/
 
 ## 💡 Business Recommendations
 
-1. **Brand managers** should monitor Social Media sentiment closely — highest negativity rate
-2. **Content teams** should use hashtags and emojis — proven higher engagement
+1. **Brand managers** should monitor Social Media sentiment closely  highest negativity rate
+2. **Content teams** should use hashtags and emojis  proven higher engagement
 3. **PR teams** should set up real-time alerts for negative sentiment spikes
 4. **Marketing teams** can leverage positive AI sentiment for tech product campaigns
 
@@ -83,20 +83,10 @@ twitter-sentiment-analysis/
 
 ---
 
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/YOUR_USERNAME/twitter-sentiment-analysis.git
-cd twitter-sentiment-analysis
-pip install -r requirements.txt
-jupyter notebook notebooks/01_sentiment_analysis.ipynb
-```
-
----
 
 ## 👤 Author
 
 **Haseeb Waqas** — Data Analyst  
 📧 haseeb.fr02@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)  
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://www.linkedin.com/in/haseeb-waqas-15531b2a0/)  
+
