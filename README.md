@@ -7,7 +7,8 @@
 
 ## 📊 Executive Dashboard Preview
 
-![Executive Dashboard](visuals/00_executive_dashboard.png)
+<img width="2380" height="1470" alt="image" src="https://github.com/user-attachments/assets/38c1f3f7-6209-4a8c-9585-e2f14c19c2cb" />
+
 
 ---
 
